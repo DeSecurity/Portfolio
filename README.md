@@ -1,6 +1,6 @@
 # <a href="(https://desecurity.github.io/Portfolio/)" target="_blank">My Alternate Portfolio Website</a>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/DeSecurity/DeSecurity.github.io)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/DeSecurity/Portfolio)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://desecurity.github.io/Portfolio/)
 [![Author](https://img.shields.io/badge/Author-Daniel%20Elizondo-blue.svg)](https://www.linkedin.com/in/daniel-elizondo-608b128a/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-07%20January%202024-yellow.svg)](https://github.com/DeSecurity/DeSecurity.github.io/commit/main)
