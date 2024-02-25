@@ -108,8 +108,8 @@ Hello! I'm Daniel Elizondo, a dedicated Information Security Engineer and Cybers
         <!-- Technology Stack #3: Back-End -->
         <div class="tech">
           <h2>OSINT</h2>
-          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
-          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/maltego.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/googledork.png" alt="Node.js" class="tech-icon">
           <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
           <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
           <p>My preferred technologies for back-end web programming and database architecture.</p>
