@@ -88,7 +88,7 @@ Hello! I'm Daniel Elizondo, a dedicated Information Security Engineer and Cybers
         <!-- Technology Stack #1: Languages -->
         <div class="tech">
           <h2>Languages</h2>
-          <img src="./assets/icons/blackcat.png" alt="Node.js" class="tech-icon">
+          <i class="devicon-python-plain colored"></i>
           <i class="devicon-java-plain-wordmark colored"></i>
           <i class="devicon-cplusplus-plain colored"></i>
           <i class="devicon-javascript-plain colored"></i>
