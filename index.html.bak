@@ -79,7 +79,7 @@
           />
         </picture>
         <p>
-Hello! I'm Daniel Elizondo, a dedicated Information Security Engineer and Cybersecurity Specialist currently working with Sabey Data Centers. With a solid foundation in IT services, my expertise spans a range of areas including server management, software installation, networking, and troubleshooting. I pride myself on my strong engineering skills and my commitment to life-long learning, which has kept me at the forefront of the ever-evolving cybersecurity landscape.
+Hello! I'm Daniel Elizondo, a dedicated Information Security Engineer and Cybersecurity Specialist. With a solid foundation in IT services, my expertise spans a range of areas including server management, software installation, networking, and troubleshooting. I pride myself on my strong engineering skills and my commitment to life-long learning, which has kept me at the forefront of the ever-evolving cybersecurity landscape.
         </p>
       </div>
 
@@ -88,40 +88,40 @@ Hello! I'm Daniel Elizondo, a dedicated Information Security Engineer and Cybers
         <!-- Technology Stack #1: Languages -->
         <div class="tech">
           <h2>Cybersecurity Offense</h2>
-          <img src="./assets/icons/blackcat.png" alt="Node.js" class="tech-icon">
-          <i class="devicon-java-plain-wordmark colored"></i>
-          <i class="devicon-cplusplus-plain colored"></i>
-          <i class="devicon-javascript-plain colored"></i>
+          <img src="./assets/icons/kali.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/cobaltstrike.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/hashcat.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
           <p>My favorite languages for systems programming, software engineering, and data analysis.</p>
         </div>
 
         <!-- Technology Stack #2: Front-End -->
         <div class="tech">
           <h2>Cybersecurity Defense</h2>
-          <i class="devicon-react-original colored"></i>
-          <i class="devicon-bootstrap-plain-wordmark colored"></i>
-          <i class="devicon-html5-plain-wordmark colored"></i>
-          <i class="devicon-css3-plain-wordmark colored"></i>
+          <img src="./assets/icons/crowdstrike.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/wireshark.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/splunk.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/mitreattack.png" alt="Node.js" class="tech-icon">
           <p>My preferred technologies for front-end web development and component design.</p>
         </div>
 
         <!-- Technology Stack #3: Back-End -->
         <div class="tech">
           <h2>OSINT</h2>
-          <i class="devicon-nodejs-plain colored"></i>
-          <i class="devicon-express-original-wordmark colored"></i>
-          <i class="devicon-mongodb-plain-wordmark colored"></i>
-          <i class="devicon-postgresql-plain-wordmark colored"></i>
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
           <p>My preferred technologies for back-end web programming and database architecture.</p>
         </div>
 
         <!-- Technology Stack #4: Tools -->
         <div class="tech">
           <h2>DFIR</h2>
-          <i class="devicon-git-plain-wordmark colored"></i>
-          <i class="devicon-visualstudio-plain colored"></i>
-          <i class="devicon-github-plain-wordmark colored"></i>
-          <i class="devicon-docker-plain-wordmark colored"></i>
+          <img src="./assets/icons/Sof-Elk.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
+          <img src="./assets/icons/nmap.png" alt="Node.js" class="tech-icon">
           <p>My favorite tools for version control, code editing, and container orchestration.</p>
         </div>
       </div>
